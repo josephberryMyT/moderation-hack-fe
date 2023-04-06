@@ -1,0 +1,8 @@
+.main {
+  min-height: 100vh;
+}
+
+.content {
+  min-height: 100%;
+  padding: 24px;
+}
